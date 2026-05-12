@@ -19,5 +19,6 @@ L’objectif est d’optimiser la production énergétique, réduire les temps d
 
 ---
 
-## 🏗 Architecture technique (exemple)
+## 🏗 Architecture technique 
 
+Capteurs (IoT) → Kafka/MQTT → Spark Streaming → Delta Lake → Modèles ML → Dashboard BI
